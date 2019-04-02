@@ -64,3 +64,7 @@
 127.0.0.1 watson.telemetry.microsoft.com
 127.0.0.1 watson.telemetry.microsoft.com.nsatc.net
 127.0.0.1 wes.df.telemetry.microsoft.com
+127.0.0.1 googlesyndication.com
+127.0.0.1 doubleclick.net
+127.0.0.1 googleadservices.com
+
